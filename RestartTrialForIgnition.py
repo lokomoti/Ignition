@@ -28,8 +28,6 @@ username = args.username
 password = args.password
 gateway_url = args.host
 
-# "http://bctjakned.local:8088/"
-
 # 3 scenarios:
 # - Trial is still running
 # - Trial is out and you need to log in
